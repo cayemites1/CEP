@@ -3,3 +3,7 @@ to enter  data to my repo
 equipment  
 transport  
 materiel
+calendrier
+inscription  
+admission  
+validation  
